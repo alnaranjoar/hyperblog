@@ -12,5 +12,6 @@ En este curso vemos de todo:
 - Trucos del profe
 - Creado por el increíble team platzi
 - Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
 
 Y como un amable recordatorio **Este readme.md es un chiste** diseñado para el ejemplo. No te lo tomes personal. 
