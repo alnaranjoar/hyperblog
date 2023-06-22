@@ -10,5 +10,6 @@ En este curso vemos de todo:
 - Flujo de trabajo
 - Verdadero amor por las buenas prácticas
 - Trucos del profe
+- Creado por el increíble team platzi
 
 Y como un amable recordatorio **Este readme.md es un chiste** diseñado para el ejemplo. No te lo tomes personal. 
